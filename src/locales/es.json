@@ -1,0 +1,27 @@
+{
+  "app": { "title": "Quiniela", "subtitle": "MI CUADRO", "docTitle": "Quiniela · Predice la eliminatoria" },
+  "common": { "back": "Atrás", "close": "Cerrar" },
+  "home": {
+    "pick": "Elige un torneo",
+    "start": "Jugar",
+    "lede": "Acierta cada partido. ¿Quién es tu campeón?",
+    "meta": "{{teams}} equipos · eliminación directa",
+    "foot": "¡Mucha suerte! ⚽"
+  },
+  "bracket": {
+    "tagline": "MI CUADRO",
+    "champion": "Campeón",
+    "championEmpty": "Por definir",
+    "remaining": "Faltan {{count}}",
+    "export": "Guardar póster",
+    "exporting": "Guardando…",
+    "savedHint": "Pulsa Guardar o mantén pulsada la imagen",
+    "save": "Guardar en Fotos",
+    "savedToast": "Guardado en Fotos",
+    "downloadedToast": "Descargado",
+    "reset": "Reiniciar",
+    "scanTitle": "Tu turno",
+    "scanHint": "Escanea para jugar",
+    "sideSlogan": "¿Quién levanta la copa?"
+  }
+}

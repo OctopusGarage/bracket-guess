@@ -1,0 +1,28 @@
+{
+  "app": { "title": "冠军竞猜", "subtitle": "MY BRACKET", "docTitle": "冠军竞猜 · 我的夺冠预测" },
+  "common": { "back": "返回", "close": "关闭" },
+  "home": {
+    "pick": "选择赛事",
+    "start": "开始",
+    "lede": "猜中每一场，谁是你的冠军？",
+    "meta": "{{teams}} 队 · 单场淘汰",
+    "foot": "祝你猜中冠军 ⚽"
+  },
+  "bracket": {
+    "tagline": "我的夺冠预测",
+    "champion": "我的冠军",
+    "championEmpty": "待定",
+    "remaining": "还差 {{count}} 场",
+    "export": "保存海报",
+    "exporting": "生成中…",
+    "savedHint": "点保存或长按图片，存到相册",
+    "save": "保存到相册",
+    "savedToast": "已保存到相册",
+    "downloadedToast": "已下载",
+    "reset": "重来",
+    "scanTitle": "也来猜一猜",
+    "scanHint": "扫码一起来猜",
+    "sideSlogan": "谁能问鼎？"
+  },
+  "lang": "EN"
+}

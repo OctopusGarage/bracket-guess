@@ -1,0 +1,63 @@
+{
+  "id": "worldcup-2026",
+  "title": {
+    "zh": "世界杯 2026 · 淘汰赛",
+    "en": "World Cup 2026 · Knockout",
+    "es": "Mundial 2026 · Eliminatorias",
+    "ja": "ワールドカップ2026 · 決勝T"
+  },
+  "size": 32,
+  "qrUrl": "https://octopusgarage.github.io/bracket-guess/",
+  "theme": { "primary": "#c8102e", "bg": "#0b1d3a" },
+  "rounds": [
+    { "zh": "1/16决赛", "en": "Round of 32", "es": "16avos", "ja": "32強" },
+    { "zh": "1/8决赛", "en": "Round of 16", "es": "Octavos", "ja": "16強" },
+    { "zh": "1/4决赛", "en": "Quarterfinal", "es": "Cuartos", "ja": "準々決勝" },
+    { "zh": "半决赛", "en": "Semifinal", "es": "Semifinal", "ja": "準決勝" },
+    { "zh": "决赛", "en": "Final", "es": "Final", "ja": "決勝" }
+  ],
+  "teams": [
+    { "id": "ger", "name": { "zh": "德国", "en": "Germany", "es": "Alemania", "ja": "ドイツ" }, "flag": "🇩🇪" },
+    { "id": "par", "name": { "zh": "巴拉圭", "en": "Paraguay", "es": "Paraguay", "ja": "パラグアイ" }, "flag": "🇵🇾" },
+    { "id": "fra", "name": { "zh": "法国", "en": "France", "es": "Francia", "ja": "フランス" }, "flag": "🇫🇷" },
+    { "id": "swe", "name": { "zh": "瑞典", "en": "Sweden", "es": "Suecia", "ja": "スウェーデン" }, "flag": "🇸🇪" },
+    { "id": "rsa", "name": { "zh": "南非", "en": "South Africa", "es": "Sudáfrica", "ja": "南アフリカ" }, "flag": "🇿🇦" },
+    { "id": "can", "name": { "zh": "加拿大", "en": "Canada", "es": "Canadá", "ja": "カナダ" }, "flag": "🇨🇦" },
+    { "id": "ned", "name": { "zh": "荷兰", "en": "Netherlands", "es": "Países Bajos", "ja": "オランダ" }, "flag": "🇳🇱" },
+    { "id": "mar", "name": { "zh": "摩洛哥", "en": "Morocco", "es": "Marruecos", "ja": "モロッコ" }, "flag": "🇲🇦" },
+    { "id": "por", "name": { "zh": "葡萄牙", "en": "Portugal", "es": "Portugal", "ja": "ポルトガル" }, "flag": "🇵🇹" },
+    { "id": "cro", "name": { "zh": "克罗地亚", "en": "Croatia", "es": "Croacia", "ja": "クロアチア" }, "flag": "🇭🇷" },
+    { "id": "esp", "name": { "zh": "西班牙", "en": "Spain", "es": "España", "ja": "スペイン" }, "flag": "🇪🇸" },
+    { "id": "aut", "name": { "zh": "奥地利", "en": "Austria", "es": "Austria", "ja": "オーストリア" }, "flag": "🇦🇹" },
+    { "id": "usa", "name": { "zh": "美国", "en": "USA", "es": "EE. UU.", "ja": "アメリカ" }, "flag": "🇺🇸" },
+    {
+      "id": "bih",
+      "name": { "zh": "波黑", "en": "Bosnia & Herzegovina", "es": "Bosnia y Herzegovina", "ja": "ボスニア・ヘルツェゴビナ" },
+      "short": { "zh": "波黑", "en": "Bosnia", "es": "Bosnia", "ja": "ボスニア" },
+      "flag": "🇧🇦"
+    },
+    { "id": "bel", "name": { "zh": "比利时", "en": "Belgium", "es": "Bélgica", "ja": "ベルギー" }, "flag": "🇧🇪" },
+    { "id": "sen", "name": { "zh": "塞内加尔", "en": "Senegal", "es": "Senegal", "ja": "セネガル" }, "flag": "🇸🇳" },
+    { "id": "bra", "name": { "zh": "巴西", "en": "Brazil", "es": "Brasil", "ja": "ブラジル" }, "flag": "🇧🇷" },
+    { "id": "jpn", "name": { "zh": "日本", "en": "Japan", "es": "Japón", "ja": "日本" }, "flag": "🇯🇵" },
+    { "id": "civ", "name": { "zh": "科特迪瓦", "en": "Côte d'Ivoire", "es": "Costa de Marfil", "ja": "コートジボワール" }, "flag": "🇨🇮" },
+    { "id": "nor", "name": { "zh": "挪威", "en": "Norway", "es": "Noruega", "ja": "ノルウェー" }, "flag": "🇳🇴" },
+    { "id": "mex", "name": { "zh": "墨西哥", "en": "Mexico", "es": "México", "ja": "メキシコ" }, "flag": "🇲🇽" },
+    { "id": "ecu", "name": { "zh": "厄瓜多尔", "en": "Ecuador", "es": "Ecuador", "ja": "エクアドル" }, "flag": "🇪🇨" },
+    { "id": "eng", "name": { "zh": "英格兰", "en": "England", "es": "Inglaterra", "ja": "イングランド" }, "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿" },
+    {
+      "id": "cod",
+      "name": { "zh": "刚果(金)", "en": "DR Congo", "es": "RD del Congo", "ja": "コンゴ民主共和国" },
+      "short": { "zh": "刚果(金)", "en": "DR Congo", "es": "RD Congo", "ja": "コンゴ" },
+      "flag": "🇨🇩"
+    },
+    { "id": "arg", "name": { "zh": "阿根廷", "en": "Argentina", "es": "Argentina", "ja": "アルゼンチン" }, "flag": "🇦🇷" },
+    { "id": "cpv", "name": { "zh": "佛得角", "en": "Cape Verde", "es": "Cabo Verde", "ja": "カーボベルデ" }, "flag": "🇨🇻" },
+    { "id": "aus", "name": { "zh": "澳大利亚", "en": "Australia", "es": "Australia", "ja": "オーストラリア" }, "flag": "🇦🇺" },
+    { "id": "egy", "name": { "zh": "埃及", "en": "Egypt", "es": "Egipto", "ja": "エジプト" }, "flag": "🇪🇬" },
+    { "id": "sui", "name": { "zh": "瑞士", "en": "Switzerland", "es": "Suiza", "ja": "スイス" }, "flag": "🇨🇭" },
+    { "id": "alg", "name": { "zh": "阿尔及利亚", "en": "Algeria", "es": "Argelia", "ja": "アルジェリア" }, "flag": "🇩🇿" },
+    { "id": "col", "name": { "zh": "哥伦比亚", "en": "Colombia", "es": "Colombia", "ja": "コロンビア" }, "flag": "🇨🇴" },
+    { "id": "gha", "name": { "zh": "加纳", "en": "Ghana", "es": "Ghana", "ja": "ガーナ" }, "flag": "🇬🇭" }
+  ]
+}

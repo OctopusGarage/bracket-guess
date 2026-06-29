@@ -1,0 +1,27 @@
+{
+  "app": { "title": "優勝予想", "subtitle": "MY BRACKET", "docTitle": "優勝予想 · ノックアウト予想" },
+  "common": { "back": "戻る", "close": "閉じる" },
+  "home": {
+    "pick": "大会を選ぶ",
+    "start": "予想する",
+    "lede": "全試合を予想して、優勝国を当てよう。",
+    "meta": "{{teams}}チーム · ノックアウト",
+    "foot": "幸運を ⚽"
+  },
+  "bracket": {
+    "tagline": "私の優勝予想",
+    "champion": "優勝",
+    "championEmpty": "未定",
+    "remaining": "残り{{count}}試合",
+    "export": "ポスターを保存",
+    "exporting": "作成中…",
+    "savedHint": "「保存」をタップ、または画像を長押し",
+    "save": "写真に保存",
+    "savedToast": "写真に保存しました",
+    "downloadedToast": "ダウンロードしました",
+    "reset": "リセット",
+    "scanTitle": "あなたの番",
+    "scanHint": "スキャンして参加",
+    "sideSlogan": "頂点に立つのは？"
+  }
+}

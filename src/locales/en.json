@@ -1,0 +1,28 @@
+{
+  "app": { "title": "Bracket", "subtitle": "MY BRACKET", "docTitle": "Bracket Guess · Predict the knockout" },
+  "common": { "back": "Back", "close": "Close" },
+  "home": {
+    "pick": "Pick a tournament",
+    "start": "Play",
+    "lede": "Call every match. Who's your champion?",
+    "meta": "{{teams}} teams · single elimination",
+    "foot": "Good luck ⚽"
+  },
+  "bracket": {
+    "tagline": "MY BRACKET",
+    "champion": "Champion",
+    "championEmpty": "TBD",
+    "remaining": "{{count}} to go",
+    "export": "Save poster",
+    "exporting": "Saving…",
+    "savedHint": "Tap Save, or long-press the image",
+    "save": "Save to Photos",
+    "savedToast": "Saved to Photos",
+    "downloadedToast": "Downloaded",
+    "reset": "Reset",
+    "scanTitle": "Your turn",
+    "scanHint": "Scan to play along",
+    "sideSlogan": "Who lifts it?"
+  },
+  "lang": "中"
+}
